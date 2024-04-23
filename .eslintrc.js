@@ -7,7 +7,7 @@ module.exports = {
     "plugin:react/recommended",
     "airbnb-typescript",
     "plugin:import/typescript",
-    // @NOTE: Make sure this is always the last element in the array.
+    // @NOTE: Make sure this is always the last element in the array. 
     "plugin:prettier/recommended",
   ],
   parser: "@typescript-eslint/parser",
